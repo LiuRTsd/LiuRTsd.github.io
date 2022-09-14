@@ -13,5 +13,5 @@
 
 [博客园](https://home.cnblogs.com/u/liuyang-cn/)
 
-[个人主页](https://home.cnblogs.com/u/liuyang-cn/)
+[个人主页](https://liurtsd.github.io/)
 
