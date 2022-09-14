@@ -7,7 +7,7 @@
 
 ### 我所擅长的领域
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liurtsd)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liurstd&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liurtsd&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 以下是我的个人博客，大家可以来参观
 
